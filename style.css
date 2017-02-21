@@ -1,0 +1,79 @@
+body {
+	background: #EAF9D9;
+	font-family: 'Pacifico', cursive;
+}
+
+h2 {
+	color: #00352E;
+	font-size: 30px;
+	font-family: 'Pacifico', cursive;
+}
+
+h1{
+	color: rgb(10,10,10) ;
+}
+
+div{
+  border-top: 1px solid #EAF9D9;
+  border-right: 1px solid #EAF9D9;
+  border-bottom: 1px solid #EAF9D9;
+  border-left: 1px solid #EAF9D9;
+}
+
+
+.daily-meal {
+	font-size: 40px;
+}
+
+.image-menu {
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+	background-size: cover;
+}
+
+
+#footer a {
+	font-size: 100px;
+	color: rgb(85,85,85);
+}
+
+#footer a:hover {
+	color: rgb(185;185,185);
+}
+
+.navbar-transparent {
+  background-color: #00352E
+}
+.navbar-transparent .navbar-brand,
+.navbar-transparent .navbar-nav > li > a {
+  color: #eeeeee;
+  line-height: 25px;
+}
+.navbar-transparent .navbar-nav > li > a:hover,
+.navbar-transparent .navbar-nav > li > a:active,
+.navbar-transparent .navbar-nav > li > a:focus,
+.navbar-transparent .navbar-nav > .open > a,
+.navbar-transparent .navbar-nav > .open > a:hover,
+.navbar-transparent .navbar-nav > .open > a:focus {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.navbar-transparent .navbar-brand:hover,
+.navbar-transparent .navbar-brand:active,
+.navbar-transparent .navbar-brand:focus {
+  color: white;
+}
+
+
+.spacer {
+	height: 3em;
+}
+
+.spacer2{
+	height: 3em
+}
+
+.spacer3{
+	height: 1em
+}
